@@ -1,0 +1,25 @@
+@font-face { font-family: BebasNeue; src: url('BebasNeue.otf'); } 
+body {
+margin: 0px;
+color: white;
+background: black url('images/bg.jpg') repeat;
+font-family: BebasNeue, verdana, helvetica, sans-serif;
+font-size: 30px;
+text-shadow: 1px 1px 12px #111;
+filter: dropshadow(color=#111, offx=1, offy=1);
+
+}
+div.wrap {width: 600px;  text-align:center; background: transparent url("images/bg1.png") ; position: absolute; top:50%; left: 50%; margin: -300px 0px 0px -300px;}
+h1, h2 { text-align: center }
+
+div.ywp-container { position:absolute; margin-left: 375px;  margin-bottom: 40px;}
+
+.clear { clear: both; }
+
+.pre { clear: both; margin-top: 40px;}
+a.white{ color: #f2f2f2; }
+div.logout{  height: 100px; width: 600px; padding: 0px; }
+div.logout-inner {   font-size: 15px; letter-spacing: 1px; float: right; margin-top: -100px; }
+
+
+ 
