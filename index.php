@@ -159,7 +159,7 @@ echo "<br>" .$name . "<br>";
 
 ?>
 
-<script type="text/javascript" src="http://webplayer.yahooapis.com/player.js"></script> 
+<script type="text/javascript" src="http://webplayer.yahooapis.com/player-beta.js"></script> 
 <br class="clear" />
 </div>
 
